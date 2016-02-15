@@ -17,7 +17,7 @@
 ---
 tomcat:
   version: 7.0.+
-  repository_root: ! 'http://www.jmatica.com/download/tomcat'
+  repository_root: ! 'https://s3.amazonaws.com/jm-liferay-tomcat'
   context_path:
 lifecycle_support:
   version: 2.+
